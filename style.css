@@ -1,0 +1,12 @@
+*{
+    height: 95vh;
+    width: 100vh;
+    background-color: rgb(63, 49, 49);
+}
+header{
+    height: 1500px;
+    width: 500px;
+    background-color: aqua;
+}
+body{}
+footer{}
